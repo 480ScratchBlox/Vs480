@@ -1,0 +1,1 @@
+You were out in the wild, then you found yourself in a small village. This guy called 480 found you and you wanted him to challenge you in a rap battle. Prepare yourself for one of the most challenging mods yet.
