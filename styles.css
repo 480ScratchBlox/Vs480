@@ -1,0 +1,42 @@
+        body {
+            background-color: black;
+            font-family: "Comic Neue", cursive;
+            font-weight: 400;
+            font-style: normal;
+        }
+        p {
+            color: #bad3ff;
+        }
+        li {
+            color: #bad3ff;
+        }
+        a {
+            color: #80BDFF;
+        }
+        h2 {
+            color: #ccdfff;
+        }
+        hr {
+            color: white
+        }
+        h3 {
+            color: #ccdfff;
+        }
+        h4 {
+            color: #ccdfff;
+        }
+        .download {
+            font-size: 20px;
+        }
+        h1 {
+            color: #bad3ff;
+        }
+        .page-download {
+            color: #3e62ff;
+        }
+        .page-download:hover{
+            color: #8a9cff;
+        }
+        .text-align{
+            text-align: center;
+        }
